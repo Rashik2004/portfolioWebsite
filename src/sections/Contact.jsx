@@ -48,8 +48,8 @@ const Contact = () => {
                 I'm currently looking for new opportunities. Whether you have a question or just want to say hi, I'll try my best to get back to you!
               </p>
               <div className="contact-socials">
-                <a href="mailto:rashikghosh2004@gmail.com" className="contact-link">Email</a>
-                <a href="https://linkedin.com/in/rashik-ghosh12" className="contact-link" target="_blank" rel="noreferrer">LinkedIn</a>
+                <a href="mailto:rashikghosh1918@gmail.com" className="contact-link">Email</a>
+                <a href="https://www.linkedin.com/in/rashik-ghosh12/" className="contact-link" target="_blank" rel="noreferrer">LinkedIn</a>
                 <a href="https://github.com/Rashik2004" className="contact-link" target="_blank" rel="noreferrer">GitHub</a>
               </div>
             </div>

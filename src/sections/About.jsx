@@ -210,7 +210,7 @@ const About = () => {
                   <a href="https://github.com/Rashik2004" target="_blank" rel="noreferrer" className="about-pill about-pill-light">
                     GitHub Profile <ArrowUpRightIcon />
                   </a>
-                  <a href="https://linkedin.com/in/rashik-ghosh12" target="_blank" rel="noreferrer" className="about-pill about-pill-light">
+                  <a href="https://www.linkedin.com/in/rashik-ghosh12/" target="_blank" rel="noreferrer" className="about-pill about-pill-light">
                     LinkedIn <ArrowUpRightIcon />
                   </a>
                   <a href="/ResumeTest.pdf" target="_blank" rel="noopener noreferrer" className="about-pill about-pill-dark">
