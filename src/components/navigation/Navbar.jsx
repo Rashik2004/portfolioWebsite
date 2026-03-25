@@ -99,8 +99,6 @@ const botLineVariants = {
 
 /* ── Styles ────────────────────────────────────────────────── */
 const css = `
-  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Syne:wght@700;800&family=DM+Sans:wght@400;500&display=swap');
-
   .nb-root {
     position: fixed;
     top: 1.5rem;
