@@ -143,7 +143,11 @@ const About = () => {
             </div>
             <div className="about-text-block">
               <p className="about-text">
-                I am passionate full-stack developer based in Jamshedpur, India. As a Computer Science Engineering student with hands-on experience in modern web technologies, I thrive at the intersection of frontend innovation, backend architecture, and algorithmic problem-solving. My passion lies in building scalable web applications and implementing secure, user-centric solutions that bridge complex technical challenges with intuitive user experiences.
+                I’m a full-stack developer who enjoys turning ideas into real, working products (and occasionally breaking them just to make them better).
+
+                I spend my time building scalable web apps, crafting responsive frontends, and writing solid backend logic that actually makes sense.
+
+                I don’t just code for the sake of it. I build things that are practical, efficient, and resilient. Give me a problem, and I’ll either solve it… or dig so deep into it that it never stands a chance again.
               </p>
               <p className="about-text">
                 I am a quick learner with a strong foundation in computer science fundamentals and a proven ability to adapt to new technologies. My goal is to leverage my technical skills and problem-solving mindset to deliver high-quality software solutions that drive real business value.
