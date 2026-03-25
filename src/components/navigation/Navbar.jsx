@@ -99,7 +99,7 @@ const botLineVariants = {
 
 /* ── Styles ────────────────────────────────────────────────── */
 const css = `
-  @import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@400;500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Syne:wght@700;800&family=DM+Sans:wght@400;500&display=swap');
 
   .nb-root {
     position: fixed;
@@ -126,10 +126,10 @@ const css = `
   }
 
   .nb-brand {
-    font-family: 'Syne', system-ui, sans-serif;
-    font-weight: 800;
-    font-size: 1.05rem;
-    letter-spacing: 0.04em;
+    font-family: 'Great Vibes', cursive;
+    font-weight: 400;
+    font-size: 1.8rem;
+    letter-spacing: 0.02em;
     color: rgba(15, 15, 30, 0.9);
     text-decoration: none;
     display: flex;
